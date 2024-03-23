@@ -1,0 +1,7 @@
+C:\Users\User\Masaüstü\CodeAcademy\VurmaCedveli\bin\Debug\VurmaCedveli.exe.config
+C:\Users\User\Masaüstü\CodeAcademy\VurmaCedveli\bin\Debug\VurmaCedveli.exe
+C:\Users\User\Masaüstü\CodeAcademy\VurmaCedveli\bin\Debug\VurmaCedveli.pdb
+C:\Users\User\Masaüstü\CodeAcademy\VurmaCedveli\obj\Debug\VurmaCedveli.csproj.AssemblyReference.cache
+C:\Users\User\Masaüstü\CodeAcademy\VurmaCedveli\obj\Debug\VurmaCedveli.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\CodeAcademy\VurmaCedveli\obj\Debug\VurmaCedveli.exe
+C:\Users\User\Masaüstü\CodeAcademy\VurmaCedveli\obj\Debug\VurmaCedveli.pdb
